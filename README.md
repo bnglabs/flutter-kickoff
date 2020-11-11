@@ -1,6 +1,7 @@
 # Flutter KickOff
 
 Flutter starter kit with stacked architecture
+### UPDATE YOUR FLUTTER SDK VERSION AND FLUTTER PACKAGES FIRST
 
 ## Todo
 - Implement flavors configuration.
